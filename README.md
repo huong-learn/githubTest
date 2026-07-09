@@ -2,6 +2,8 @@
 This is used for testing purpose
 This is the first comit
 This is my second practice commit on Github Desktop and VS/
+# githubTest
+
 Put the summarized commands here for easy copy/paste:
 git init = initialize project to use git
 git add . = add all changes to be saved
