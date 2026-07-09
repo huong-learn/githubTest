@@ -1,9 +1,8 @@
 # githubTest
 This is used for testing purpose
 This is the first comit
-This is my second practice commit on Github Desktop and VS/
-# githubTest
-
+This is my second practice commit on Github Desktop and VS
+```
 Put the summarized commands here for easy copy/paste:
 git init = initialize project to use git
 git add . = add all changes to be saved
@@ -15,3 +14,4 @@ git checkout -b new-branch = create a new branch
 git status = check status of changes
 git log = see all previous saved changes
 git checkout commit hash = travel back to old commit
+```
